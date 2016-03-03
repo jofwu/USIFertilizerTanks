@@ -13,5 +13,5 @@ Copy USIFertilizerTanks folder into \KerbalSpaceProgram\GameData.
 
 RoverDude gets 99% of the credit for this work. All I've done here is change the part configs and adjust the original texture to make these Fertilizer tanks look distinct from the Supply tanks.
 
-![screenshot](https://raw.githubusercontent.com/jofwu/USIFertilizerTanks/master/screenshot11.png)
+![screenshot](https://raw.githubusercontent.com/jofwu/USIFertilizerTanks/master/screenshot.png)
 
